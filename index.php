@@ -67,4 +67,4 @@ $sql = 'SELECT title, ingredients, id FROM pizzas ORDER BY created_at';
 
 </html>
 
-<!-- https://www.youtube.com/watch?v=3lpPfEdU-8A&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&index=32 --> HIER GEHTS WEITER 
+
